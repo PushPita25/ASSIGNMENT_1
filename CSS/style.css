@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header{
+    background-image: url(../images/banner/banner3.png);
+    height:808px;
+    width: 1600px;
+}
+h1{
+    color: white;
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+    height: 228px;
+    width:525px;
+    font-weight: 700;
+    font-size: 65px;
+}
+#banner_text{
+    color: white;
+    text-align: right;
+    padding-right: 230px;
+    font-weight: 400;
+    margin-top: 24px;
+    font-size: 16px;
+
+}
+#btn{
+    float: right;
+    border: none;
+    border-radius: 5px;
+    height: 64px;
+    width: 160px;
+    margin-top: 32px;
+    margin-right: 230px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #005FAC;
+}
+main{
+    max-width: 1170px;
+    max-height: 723.3px;
+}
+
+#image{
+    height: 723px;
+    width:571px;
+    margin-left: 194px;
+    margin-top: 144px;
+}
+.banner{
+    display: flex;
+}
+
+#text{
+    text-align: left;
+    padding-left:99px ;
+    padding-top: 370px;
+    
+}
+#text_1{
+    font-weight: 700;
+    font-size: 40px;
+}
+#text_2{
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 24px;
+    color: #444343;
+}
+ul{
+    list-style: none;
+    padding-top: 24px;
+    color: #444343;
+    text-align: left;
+}
+
+ul li:before{
+    content: "\2713\0020";
+}
+.plans{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 115.7px;
+    padding-left: 500px;
+}
+.My_Plans{
+    display: flex;
+    padding-left: 400px;
+    max-width: 1141px;
+    max-height: 202.96px;
+    padding-top: 50px;
+}
+.java{
+    height: 197px;
+    width: 218px;
+    padding-left:86px ;
+}
+.smoke{
+    height: 197px;
+    width: 218px;
+    padding-left:86px ;
+}
+.ecom{
+    height: 197px;
+    width: 218px;
+    padding-left:86px ;
+}
+.possible{
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(../images/watch.png);
+    width: 1140px;
+    height: 300px;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: 130px;
+    border-radius: 8px;
+}
+
+#poss_text{
+    padding-left: 64px;
+    padding-top: 59px;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+#btn2{
+    margin-left: 64px;
+    margin-top: 24px;
+    border: none;
+    border-radius: 5px;
+    height: 64px;
+    width: 160px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #005FAC;
+}
+#footer{
+    display: flex;
+    background-color: black;
+    width: 1600px;
+    height: 577px;
+    margin-top: 130px;
+}
+
+#future{
+    width: 485px;
+    height: 315px;
+    color: white;
+    padding-top: 130px;
+    padding-left: 230px;
+}
+.head{
+    font-weight: 700;
+    font-size: 45px;
+}
+.para{
+    padding-top: 16px;
+    font-weight: 400;
+    font-size: 16px;
+}
+#subscribe{
+    color: white;
+    padding-top: 130px;
+    padding-left: 331px;
+}
+#email{
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: black;
+}
+.subs{
+    padding-top: 31px;
+}
+#btn3{
+    width: 170.1px;
+    height: 64px;
+    background-color: #005FAC;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
